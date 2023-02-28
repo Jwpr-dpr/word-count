@@ -11,6 +11,7 @@ word-count
    :maxdepth: 2
 
    purpose.rst
+   biologia.md
    dependencies.rst
    usage.rst
    credit.rst
