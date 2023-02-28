@@ -15,4 +15,4 @@ We use this example in two [CodeRefinery](https://coderefinery.org/) lessons:
 - https://coderefinery.github.io/reproducible-research/
 - https://coderefinery.github.io/documentation/
 
-Un cambiesito
+Un cambiesito para las github pages
